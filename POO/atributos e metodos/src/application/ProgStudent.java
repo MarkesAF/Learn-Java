@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.StudentGrade;
 
-public class ProgStudent {
+public class    ProgStudent {
     public static void main(String[]args){
         Locale.setDefault(Locale.US);
         Scanner in = new Scanner(System.in);

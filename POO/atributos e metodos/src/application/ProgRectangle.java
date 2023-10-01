@@ -19,5 +19,6 @@ public class ProgRectangle {
         System.out.printf("Area: %.2f",rect.area());
         System.out.printf("Perimeter: %.2f",rect.perimeter());
         System.out.printf("Diagonal: %.2f",rect.diagonal());
+
     }
 }
